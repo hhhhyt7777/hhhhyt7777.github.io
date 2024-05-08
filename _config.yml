@@ -7,14 +7,14 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : #"en-US"
 title                    : #"Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Hao Yutong"
-description              : &description "free spirit"
-url                      : https://hhhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : #&name "Hao Yutong"
+description              : #&description "free spirit"
+url                      : #https://hhhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
-repository               : "hhhhyt7777/hhhh.github.io"
+repository               : #"hhhhyt7777/hhhh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -24,7 +24,7 @@ author:
   avatar           : "R.png"
   name             : "Hao Yutong"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "free spirit"
   location         : "Shenyang, China"
   employer         : #"Red Brick University"
   uri              : https://hhhh.github.io # URL
