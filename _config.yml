@@ -8,12 +8,12 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : #"Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Hao Yutong"
 description              : &description "free spirit"
 url                      : https://hhhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "hhhhyt7777/hhhh.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -21,13 +21,13 @@ repository               : "hhhhyt7777/hhhh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "R.png"
   name             : "Hao Yutong"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Shenyang, China"
   employer         : #"Red Brick University"
-  uri              : # URL
+  uri              : https://hhhh.github.io # URL
   email            : "15522808379@163.com" 
 
   # Academic websites
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
