@@ -12,7 +12,7 @@ title                    : #"Your Name / Site Title"
 title_separator          : "-"
 name                     : #&name "Hao Yutong"
 description              : #&description "free spirit"
-url                      : https://hhhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : #https://hhhh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : #"hhhhyt7777/hhhh.github.io"
 
@@ -27,7 +27,7 @@ author:
   bio              : "Free Spirit"
   location         : "Shenyang, China"
   employer         : #"Red Brick University"
-  uri              : #https://hhhh.github.io # URL
+  uri              : https://hhhh.github.io # URL
   email            : "15522808379@163.com" 
 
   # Academic websites
