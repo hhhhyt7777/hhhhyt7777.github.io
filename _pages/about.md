@@ -13,4 +13,5 @@ Hi, I am Hao Yutong. Currently, I am a Master student at Shenyang Institute of A
 You can email me at **haoyutong@sia.cn**.
 
 My **CV** is available [here](../files/CV.pdf).
-Please check my **[Undergraduate Transctipt](files/Undergraduate Transcripts.pdf)** and **[Master Transcript](files/Master Transcripts.pdf)**.
+
+Please check my [Undergraduate Transctipt](files/Undergraduate Transcripts.pdf) and [Master Transcript](files/Master Transcripts.pdf).
