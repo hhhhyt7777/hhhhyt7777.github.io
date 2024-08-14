@@ -14,4 +14,4 @@ You can email me at **haoyutong@sia.cn**.
 
 My **CV** is available [here](../files/CV.pdf).
 
-Please check my [Undergraduate Transctipt](../files/Undergraduate Transcripts.pdf) and [Master Transcript](../files/Master Transcripts.pdf).
+Please check my [Undergraduate Transctipt]([../files/Undergraduate Transcripts.pdf](https://github.com/hhhhyt7777/hhhhyt7777.github.io/blob/master/files/Undergraduate%20Transcripts.pdf)) and [Master Transcript]([../files/Master Transcripts.pdf](https://github.com/hhhhyt7777/hhhhyt7777.github.io/blob/master/files/Master%20Transcripts.pdf)).
